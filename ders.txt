@@ -1,0 +1,40 @@
+Live Server:
+
+Açıklama: Bu eklenti, yerel geliştirme ortamınızda web sayfanızı anında görmek için canlı bir sunucu başlatmanıza olanak tanır.
+Neden: Anında değişiklikleri görmek ve hızlı bir geri bildirim döngüsü için esastır.
+HTML Snippets:
+
+Açıklama: HTML5 etiketleri için hızlı kod parçacıkları sunar.
+Neden: HTML5 kod yazma sürecini hızlandırır.
+Auto Close Tag:
+
+Açıklama: Açılan HTML etiketini otomatik olarak kapatır.
+Neden: Kod yazma hızını artırır ve hataları azaltır.
+Prettier - Code formatter:
+
+Açıklama: Kodunuzu otomatik olarak biçimlendirir.
+Neden: Kodun okunabilirliğini artırır ve tutarlı bir kod stilini korur.
+HTML CSS Support:
+
+Açıklama: HTML dosyalarındaki CSS sınıf ve ID tanımlamalarını tamamlar.
+Neden: Stil ve yapılandırma sürecini hızlandırır.
+Bracket Pair Colorizer:
+
+Açıklama: Farklı renklerde eşleşen parantezleri vurgular.
+Neden: Karmaşık yapılarla çalışırken kodun okunabilirliğini artırır.
+IntelliSense for CSS class names in HTML:
+
+Açıklama: HTML dosyalarında CSS sınıf adları için otomatik tamamlama sağlar.
+Neden: Hızlı ve hatasız kodlama için.
+Emmet:
+
+Açıklama: Web geliştirme için kod parçacıklarını hızla genişletir.
+Neden: HTML ve CSS kodlamasını hızlandırır.
+Path Intellisense:
+
+Açıklama: Dosya yollarını otomatik tamamlar.
+Neden: Dosya ve klasör yapılarıyla çalışırken zaman kazandırır.
+HTMLHint:
+
+Açıklama: HTML kodları için en iyi uygulama ipuçları ve hatalarını gösterir.
+Neden: Web standartlarına uygun ve hatasız kod yazmayı destekler.
